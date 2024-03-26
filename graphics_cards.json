@@ -1,0 +1,23 @@
+[
+  {
+    "interfaceType": "PCIe 4.0",
+    "manufacturer": "NVIDIA",
+    "gpu": "RTX 3080",
+    "gpuFrequency": "1.71 GHz",
+    "vram": "10 GB"
+  },
+  {
+    "interfaceType": "PCIe 4.0",
+    "manufacturer": "AMD",
+    "gpu": "Radeon RX 6900 XT",
+    "gpuFrequency": "2.25 GHz",
+    "vram": "16 GB"
+  },
+  {
+    "interfaceType": "PCIe 4.0",
+    "manufacturer": "NVIDIA",
+    "gpu": "RTX 3070",
+    "gpuFrequency": "1.73 GHz",
+    "vram": "8 GB"
+  }
+]
